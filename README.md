@@ -73,21 +73,6 @@ The selected Lasso Regression model achieved a testing R² of 0.6495, indicating
 - Scikit-learn
 - SciPy
 
-## Repository Contents
-
-```text
-Bicycle-Rental-Demand-Prediction/
-│
-├── notebooks/
-│   └── Bicycle_Rental_Demand_Prediction.ipynb
-│
-├── data/
-│
-├── images/
-│
-└── README.md
-```
-
 ## Project Scope
 
 This project covers data preprocessing, exploratory data analysis, statistical testing, regression model development, hyperparameter tuning, model comparison, and final model selection.
